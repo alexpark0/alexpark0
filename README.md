@@ -1,4 +1,4 @@
-## Hi there! 
+## Hi! 
 
 I'm [Alex Park](https://www.linkedin.com/in/alex-park-/), a Computer Science Student at Northeastern University concentrating in artificial intelligence.
 
