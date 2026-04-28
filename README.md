@@ -1,21 +1,14 @@
 ## Hi there! 
 
-I'm [Alex Park](https://www.linkedin.com/in/alex-park-/), a student focused on:
+I'm [Alex Park](https://www.linkedin.com/in/alex-park-/), a Computer Science Student at Northeastern University concentrating in artificial intelligence.
 
-In my free time, I love:
-
+In my free time, I love playing basketball, lifting weights, exploring cafes, and playing games.
 
 ---
 ## Positions
-- **[MIT Media Lab](https://www.media.mit.edu/): Topic**: 
-
-## Projects
-- **Project**
-
----
-
-## Technologies/Skills
-- **Programming Languages**: Python, Java, C, JavaScript
+- **[Morgan Stanley (Parametric Division)](https://www.parametricportfolio.com/): Quantitative Researcher Associate Co-op**: Incoming 2026
+- **[Verisk](https://www.verisk.com/solutions/catastrophe-risk-solutions/): Software Developer Co-op**: Jul - Dec 2025
+- **[Revvity](https://www.revvity.com/): Software Engineer Intern**: May - Aug 2024
 
 ---
 
